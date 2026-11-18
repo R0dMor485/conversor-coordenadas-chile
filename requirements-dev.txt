@@ -1,0 +1,7 @@
+-r requirements.txt
+# Pruebas y validación independiente (no se empaquetan)
+pytest==9.2.0
+pyproj==3.8.0
+# Empaquetado y verificación del ejecutable
+pyinstaller==6.22.3
+pywin32==312

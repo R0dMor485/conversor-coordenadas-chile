@@ -1,0 +1,4028 @@
+[
+ {
+  "id": "C1-Arica-SIRGAS_PSAD56",
+  "punto": "Arica",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 18.4783,
+  "lon": 70.3126,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0008317041478495632,
+  "mod_vs_exe_lon_m": 0.0003884620361386542,
+  "mod_vs_exe_N": -0.00018723774701356888,
+  "mod_vs_exe_E": 0.0003051268286071718,
+  "dexe": [
+   302,
+   -272,
+   360
+  ],
+  "web_delta": [
+   302,
+   -272,
+   360
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Arica-SIRGAS_SAD69",
+  "punto": "Arica",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 18.4783,
+  "lon": 70.3126,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.00015769838191524306,
+  "mod_vs_exe_lon_m": -0.0004831607358970524,
+  "mod_vs_exe_N": -0.0002566371113061905,
+  "mod_vs_exe_E": -0.00019354885444045067,
+  "dexe": [
+   59,
+   11,
+   52
+  ],
+  "web_delta": [
+   59,
+   11,
+   52
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": -0.0010000000474974513,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Arica-PSAD56_SIRGAS",
+  "punto": "Arica",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 18.4783,
+  "lon": 70.3126,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.001037133042094345,
+  "mod_vs_exe_lon_m": -0.00012402310257763247,
+  "mod_vs_exe_N": -7.006805390119553e-05,
+  "mod_vs_exe_E": 0.0002072224160656333,
+  "dexe": [
+   -302,
+   272,
+   -360
+  ],
+  "web_delta": [
+   -302,
+   272,
+   -360
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Arica-SAD69_SIRGAS",
+  "punto": "Arica",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 18.4783,
+  "lon": 70.3126,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0003467635739580864,
+  "mod_vs_exe_lon_m": 0.00045543177990947165,
+  "mod_vs_exe_N": 0.0004951581358909607,
+  "mod_vs_exe_E": 9.778107050806284e-05,
+  "dexe": [
+   -59,
+   -11,
+   -52
+  ],
+  "web_delta": [
+   -59,
+   -11,
+   -52
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Putre-SIRGAS_PSAD56",
+  "punto": "Putre",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 18.1957,
+  "lon": 69.5594,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0007948450855510504,
+  "mod_vs_exe_lon_m": 0.00043663510486566243,
+  "mod_vs_exe_N": 0.00023754872381687164,
+  "mod_vs_exe_E": 0.0004242408904246986,
+  "dexe": [
+   302,
+   -272,
+   360
+  ],
+  "web_delta": [
+   302,
+   -272,
+   360
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Putre-SIRGAS_SAD69",
+  "punto": "Putre",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 18.1957,
+  "lon": 69.5594,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.00043564939155761004,
+  "mod_vs_exe_lon_m": -0.0001244502879584573,
+  "mod_vs_exe_N": 0.0004598405212163925,
+  "mod_vs_exe_E": 0.00021012872457504272,
+  "dexe": [
+   59,
+   11,
+   52
+  ],
+  "web_delta": [
+   59,
+   11,
+   52
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Putre-PSAD56_SIRGAS",
+  "punto": "Putre",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 18.1957,
+  "lon": 69.5594,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0002182721843495254,
+  "mod_vs_exe_lon_m": -0.0004348867303818229,
+  "mod_vs_exe_N": -0.00030410848557949066,
+  "mod_vs_exe_E": 0.00033539615105837584,
+  "dexe": [
+   -302,
+   272,
+   -360
+  ],
+  "web_delta": [
+   -302,
+   272,
+   -360
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Putre-SAD69_SIRGAS",
+  "punto": "Putre",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 18.1957,
+  "lon": 69.5594,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0009216782103490744,
+  "mod_vs_exe_lon_m": 0.00011167197057871887,
+  "mod_vs_exe_N": -6.098579615354538e-05,
+  "mod_vs_exe_E": 1.663516741245985e-06,
+  "dexe": [
+   -59,
+   -11,
+   -52
+  ],
+  "web_delta": [
+   -59,
+   -11,
+   -52
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0009999992325901985,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Iquique-SIRGAS_PSAD56",
+  "punto": "Iquique",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 20.2141,
+  "lon": 70.1524,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0006218119800021287,
+  "mod_vs_exe_lon_m": -0.0004621285907570494,
+  "mod_vs_exe_N": 0.0002943044528365135,
+  "mod_vs_exe_E": -0.00022849277593195438,
+  "dexe": [
+   302,
+   -272,
+   360
+  ],
+  "web_delta": [
+   302,
+   -272,
+   360
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": -0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Iquique-SIRGAS_SAD69",
+  "punto": "Iquique",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 20.2141,
+  "lon": 70.1524,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.00028807413771211437,
+  "mod_vs_exe_lon_m": 0.0010790821996504716,
+  "mod_vs_exe_N": -0.0003737499937415123,
+  "mod_vs_exe_E": -0.0003126978990621865,
+  "dexe": [
+   59,
+   11,
+   52
+  ],
+  "web_delta": [
+   59,
+   11,
+   52
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Iquique-PSAD56_SIRGAS",
+  "punto": "Iquique",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 20.2141,
+  "lon": 70.1524,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0011709618718030866,
+  "mod_vs_exe_lon_m": 0.0010272699060470704,
+  "mod_vs_exe_N": 2.3263506591320038e-05,
+  "mod_vs_exe_E": -0.0004600596148520708,
+  "dexe": [
+   -302,
+   272,
+   -360
+  ],
+  "web_delta": [
+   -302,
+   272,
+   -360
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Iquique-SAD69_SIRGAS",
+  "punto": "Iquique",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 20.2141,
+  "lon": 70.1524,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0002565145359943404,
+  "mod_vs_exe_lon_m": -0.0011016334974711447,
+  "mod_vs_exe_N": -0.00014712288975715637,
+  "mod_vs_exe_E": 0.00023247580975294113,
+  "dexe": [
+   -59,
+   -11,
+   -52
+  ],
+  "web_delta": [
+   -59,
+   -11,
+   -52
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": -0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Calama-SIRGAS_PSAD56",
+  "punto": "Calama",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 22.4567,
+  "lon": 68.9293,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0007616723490161731,
+  "mod_vs_exe_lon_m": 0.00024135985471003115,
+  "mod_vs_exe_N": 0.00017964839935302734,
+  "mod_vs_exe_E": 0.00026255269767716527,
+  "dexe": [
+   302,
+   -272,
+   360
+  ],
+  "web_delta": [
+   302,
+   -272,
+   360
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Calama-SIRGAS_SAD69",
+  "punto": "Calama",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 22.4567,
+  "lon": 68.9293,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0008570243498297095,
+  "mod_vs_exe_lon_m": -0.00038454047078090883,
+  "mod_vs_exe_N": -0.00024210475385189056,
+  "mod_vs_exe_E": -0.00021124724298715591,
+  "dexe": [
+   59,
+   11,
+   52
+  ],
+  "web_delta": [
+   59,
+   11,
+   52
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": -0.0010000000474974513,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Calama-PSAD56_SIRGAS",
+  "punto": "Calama",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 22.4567,
+  "lon": 68.9293,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.001366224570438559,
+  "mod_vs_exe_lon_m": 0.0004561161518328491,
+  "mod_vs_exe_N": -0.000265597365796566,
+  "mod_vs_exe_E": 0.0003228306886740029,
+  "dexe": [
+   -302,
+   272,
+   -360
+  ],
+  "web_delta": [
+   -302,
+   272,
+   -360
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0019999993965029716,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Calama-SAD69_SIRGAS",
+  "punto": "Calama",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 22.4567,
+  "lon": 68.9293,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0002752520388876066,
+  "mod_vs_exe_lon_m": 0.000390123590382316,
+  "mod_vs_exe_N": -0.00010384246706962585,
+  "mod_vs_exe_E": 0.00012653437443077564,
+  "dexe": [
+   -59,
+   -11,
+   -52
+  ],
+  "web_delta": [
+   -59,
+   -11,
+   -52
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Antofagasta-SIRGAS_PSAD56",
+  "punto": "Antofagasta",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 23.6509,
+  "lon": 70.3975,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.000781421721467922,
+  "mod_vs_exe_lon_m": 0.00022434308690589533,
+  "mod_vs_exe_N": 0.0002259090542793274,
+  "mod_vs_exe_E": 0.00019957084441557527,
+  "dexe": [
+   302,
+   -272,
+   360
+  ],
+  "web_delta": [
+   302,
+   -272,
+   360
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Antofagasta-SIRGAS_SAD69",
+  "punto": "Antofagasta",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 23.6509,
+  "lon": 70.3975,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0005617803608009733,
+  "mod_vs_exe_lon_m": -0.0003574280426900809,
+  "mod_vs_exe_N": 0.0002892371267080307,
+  "mod_vs_exe_E": 0.00024922547163441777,
+  "dexe": [
+   59,
+   11,
+   52
+  ],
+  "web_delta": [
+   59,
+   11,
+   52
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Antofagasta-PSAD56_SIRGAS",
+  "punto": "Antofagasta",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 23.6509,
+  "lon": 70.3975,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0014805565292028075,
+  "mod_vs_exe_lon_m": 0.0011999350328011867,
+  "mod_vs_exe_N": 0.00011080782860517502,
+  "mod_vs_exe_E": -0.0001270182547159493,
+  "dexe": [
+   -302,
+   272,
+   -360
+  ],
+  "web_delta": [
+   -302,
+   272,
+   -360
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0030764777934349876,
+  "dlon_m": 0.0,
+  "dN": -0.0019999993965029716,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0030764777934349876,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Antofagasta-SAD69_SIRGAS",
+  "punto": "Antofagasta",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 23.6509,
+  "lon": 70.3975,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0011927476911908713,
+  "mod_vs_exe_lon_m": 0.0003341825409460525,
+  "mod_vs_exe_N": -0.00048329494893550873,
+  "mod_vs_exe_E": 0.00019116332987323403,
+  "dexe": [
+   -59,
+   -11,
+   -52
+  ],
+  "web_delta": [
+   -59,
+   -11,
+   -52
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0020000003278255463,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Taltal-SIRGAS_PSAD56",
+  "punto": "Taltal",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 25.4053,
+  "lon": 70.4857,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0012981811068102415,
+  "mod_vs_exe_lon_m": 0.00052616874905847,
+  "mod_vs_exe_N": 0.00047297868877649307,
+  "mod_vs_exe_E": -0.00033181358594447374,
+  "dexe": [
+   302,
+   -272,
+   360
+  ],
+  "web_delta": [
+   302,
+   -272,
+   360
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0019999993965029716,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Taltal-SIRGAS_SAD69",
+  "punto": "Taltal",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 25.4053,
+  "lon": 70.4857,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.00019844026364810132,
+  "mod_vs_exe_lon_m": 0.00012886909159254812,
+  "mod_vs_exe_N": -3.8032419979572296e-05,
+  "mod_vs_exe_E": 0.00037505326326936483,
+  "dexe": [
+   59,
+   11,
+   52
+  ],
+  "web_delta": [
+   59,
+   11,
+   52
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Taltal-PSAD56_SIRGAS",
+  "punto": "Taltal",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 25.4053,
+  "lon": 70.4857,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.001002607988169134,
+  "mod_vs_exe_lon_m": 0.0013862192297506646,
+  "mod_vs_exe_N": -0.00046552624553442,
+  "mod_vs_exe_E": -0.0003351396298967302,
+  "dexe": [
+   -302,
+   272,
+   -360
+  ],
+  "web_delta": [
+   -302,
+   272,
+   -360
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Taltal-SAD69_SIRGAS",
+  "punto": "Taltal",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 25.4053,
+  "lon": 70.4857,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.00047525642433865874,
+  "mod_vs_exe_lon_m": -0.00015143347929028915,
+  "mod_vs_exe_N": -0.00024205632507801056,
+  "mod_vs_exe_E": -0.00019670388428494334,
+  "dexe": [
+   -59,
+   -11,
+   -52
+  ],
+  "web_delta": [
+   -59,
+   -11,
+   -52
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Chanaral-SIRGAS_PSAD56",
+  "punto": "Chanaral",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 26.3479,
+  "lon": 70.6224,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0010754778763787075,
+  "mod_vs_exe_lon_m": -0.0007910439572209068,
+  "mod_vs_exe_N": -6.50668516755104e-05,
+  "mod_vs_exe_E": -9.368750033900142e-05,
+  "dexe": [
+   328,
+   -340,
+   329
+  ],
+  "web_delta": [
+   328,
+   -340,
+   329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": -0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Chanaral-SIRGAS_SAD69",
+  "punto": "Chanaral",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 26.3479,
+  "lon": 70.6224,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0011103051122745343,
+  "mod_vs_exe_lon_m": 0.0007233341374318859,
+  "mod_vs_exe_N": 0.00041041430085897446,
+  "mod_vs_exe_E": -0.0003399290144443512,
+  "dexe": [
+   64,
+   0,
+   32
+  ],
+  "web_delta": [
+   59,
+   11,
+   52
+  ],
+  "web_huso": 19,
+  "dlat_m": -12.58120016028557,
+  "dlon_m": 1.0675299178778213,
+  "dN": 12.565000000409782,
+  "dE": -1.2250000000349246,
+  "dH": 12.626409529186589,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Chanaral-PSAD56_SIRGAS",
+  "punto": "Chanaral",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 26.3479,
+  "lon": 70.6224,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.00041508452208803434,
+  "mod_vs_exe_lon_m": -0.0001440117450515626,
+  "mod_vs_exe_N": -0.00036712270230054855,
+  "mod_vs_exe_E": 0.00029273657128214836,
+  "dexe": [
+   -328,
+   340,
+   -329
+  ],
+  "web_delta": [
+   -328,
+   340,
+   -329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Chanaral-SAD69_SIRGAS",
+  "punto": "Chanaral",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 26.3479,
+  "lon": 70.6224,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0007429596459183439,
+  "mod_vs_exe_lon_m": -0.0004936963942636537,
+  "mod_vs_exe_N": -0.00037483125925064087,
+  "mod_vs_exe_E": -0.00042261864291504025,
+  "dexe": [
+   -64,
+   0,
+   -32
+  ],
+  "web_delta": [
+   -59,
+   -11,
+   -52
+  ],
+  "web_huso": 19,
+  "dlat_m": 12.58120016028557,
+  "dlon_m": -1.0675299178778213,
+  "dN": -12.565999999642372,
+  "dE": 1.2250000000349246,
+  "dH": 12.626409529186589,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Copiapo-SIRGAS_PSAD56",
+  "punto": "Copiapo",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 27.3668,
+  "lon": 70.3323,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0014092108000864163,
+  "mod_vs_exe_lon_m": 0.00036648921549453455,
+  "mod_vs_exe_N": -0.0004266127943992615,
+  "mod_vs_exe_E": 5.641917232424021e-05,
+  "dexe": [
+   328,
+   -340,
+   329
+  ],
+  "web_delta": [
+   328,
+   -340,
+   329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0019999993965029716,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Copiapo-SIRGAS_SAD69",
+  "punto": "Copiapo",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 27.3668,
+  "lon": 70.3323,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.00019574129539430565,
+  "mod_vs_exe_lon_m": -0.0006788558239371816,
+  "mod_vs_exe_N": -0.00015546754002571106,
+  "mod_vs_exe_E": -0.0003017804119735956,
+  "dexe": [
+   64,
+   0,
+   32
+  ],
+  "web_delta": [
+   59,
+   11,
+   52
+  ],
+  "web_huso": 19,
+  "dlat_m": -12.225961395743873,
+  "dlon_m": 1.005796699935624,
+  "dN": 12.212000000290573,
+  "dE": -1.1369999999878928,
+  "dH": 12.267263714937446,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Copiapo-PSAD56_SIRGAS",
+  "punto": "Copiapo",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 27.3668,
+  "lon": 70.3323,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.00013457501932309437,
+  "mod_vs_exe_lon_m": -0.0010478897031396394,
+  "mod_vs_exe_N": 2.2365711629390717e-05,
+  "mod_vs_exe_E": 2.699129981920123e-05,
+  "dexe": [
+   -328,
+   340,
+   -329
+  ],
+  "web_delta": [
+   -328,
+   340,
+   -329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": -0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Copiapo-SAD69_SIRGAS",
+  "punto": "Copiapo",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 27.3668,
+  "lon": 70.3323,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.00018840242880539045,
+  "mod_vs_exe_lon_m": 0.000918535027392513,
+  "mod_vs_exe_N": -0.00017498712986707687,
+  "mod_vs_exe_E": -0.00037546310340985656,
+  "dexe": [
+   -64,
+   0,
+   -32
+  ],
+  "web_delta": [
+   -59,
+   -11,
+   -52
+  ],
+  "web_huso": 19,
+  "dlat_m": 12.225961395743873,
+  "dlon_m": -1.005796699935624,
+  "dN": -12.212999999523163,
+  "dE": 1.1369999999878928,
+  "dH": 12.267263714937446,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Vallenar-SIRGAS_PSAD56",
+  "punto": "Vallenar",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 28.5708,
+  "lon": 70.7581,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0001362806478943405,
+  "mod_vs_exe_lon_m": 0.000499819069835381,
+  "mod_vs_exe_N": -0.0003150440752506256,
+  "mod_vs_exe_E": -0.00040338089456781745,
+  "dexe": [
+   328,
+   -340,
+   329
+  ],
+  "web_delta": [
+   328,
+   -340,
+   329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Vallenar-SIRGAS_SAD69",
+  "punto": "Vallenar",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 28.5708,
+  "lon": 70.7581,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.00032730728061235024,
+  "mod_vs_exe_lon_m": -0.0009063970497220565,
+  "mod_vs_exe_N": 1.3521872460842133e-05,
+  "mod_vs_exe_E": -4.035065649077296e-05,
+  "dexe": [
+   64,
+   0,
+   32
+  ],
+  "web_delta": [
+   59,
+   11,
+   52
+  ],
+  "web_huso": 19,
+  "dlat_m": -11.809415505219338,
+  "dlon_m": 1.0952498101550965,
+  "dN": 11.792000000365078,
+  "dE": -1.2690000000293367,
+  "dH": 11.860095561232198,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Vallenar-PSAD56_SIRGAS",
+  "punto": "Vallenar",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 28.5708,
+  "lon": 70.7581,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0004179850428889365,
+  "mod_vs_exe_lon_m": -0.0004049401223226367,
+  "mod_vs_exe_N": -0.0004040645435452461,
+  "mod_vs_exe_E": 0.0003848408814519644,
+  "dexe": [
+   -328,
+   340,
+   -329
+  ],
+  "web_delta": [
+   -328,
+   340,
+   -329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Vallenar-SAD69_SIRGAS",
+  "punto": "Vallenar",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 28.5708,
+  "lon": 70.7581,
+  "msg": "",
+  "mod_vs_exe_lat_m": -8.740930413489124e-05,
+  "mod_vs_exe_lon_m": 0.0011420747425128354,
+  "mod_vs_exe_N": -0.00046574603766202927,
+  "mod_vs_exe_E": -0.00045518612023442984,
+  "dexe": [
+   -64,
+   0,
+   -32
+  ],
+  "web_delta": [
+   -59,
+   -11,
+   -52
+  ],
+  "web_huso": 19,
+  "dlat_m": 11.809415504825594,
+  "dlon_m": -1.0952498101550965,
+  "dN": -11.792000000365078,
+  "dE": 1.268999999971129,
+  "dH": 11.860095560840136,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-LaSerena-SIRGAS_PSAD56",
+  "punto": "LaSerena",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 29.9027,
+  "lon": 71.2519,
+  "msg": "",
+  "mod_vs_exe_lat_m": -5.9823404643163506e-05,
+  "mod_vs_exe_lon_m": 0.0004958181998239565,
+  "mod_vs_exe_N": 0.00015490036457777023,
+  "mod_vs_exe_E": -0.0001621863921172917,
+  "dexe": [
+   328,
+   -340,
+   329
+  ],
+  "web_delta": [
+   328,
+   -340,
+   329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-LaSerena-SIRGAS_SAD69",
+  "punto": "LaSerena",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 29.9027,
+  "lon": 71.2519,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0014609430307887337,
+  "mod_vs_exe_lon_m": 0.00013186728715418726,
+  "mod_vs_exe_N": 0.0004974137991666794,
+  "mod_vs_exe_E": -0.00016207894077524543,
+  "dexe": [
+   64,
+   0,
+   32
+  ],
+  "web_delta": [
+   59,
+   11,
+   52
+  ],
+  "web_huso": 19,
+  "dlat_m": -11.343732307815973,
+  "dlon_m": 1.19920497156178,
+  "dN": 11.31900000013411,
+  "dE": -1.422000000020489,
+  "dH": 11.40694329061061,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-LaSerena-PSAD56_SIRGAS",
+  "punto": "LaSerena",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 29.9027,
+  "lon": 71.2519,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0008110770600245095,
+  "mod_vs_exe_lon_m": 0.0005064055732677622,
+  "mod_vs_exe_N": 0.00019217468798160553,
+  "mod_vs_exe_E": 0.00047906622057780623,
+  "dexe": [
+   -328,
+   340,
+   -329
+  ],
+  "web_delta": [
+   -328,
+   340,
+   -329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-LaSerena-SAD69_SIRGAS",
+  "punto": "LaSerena",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 29.9027,
+  "lon": 71.2519,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0010119018330097974,
+  "mod_vs_exe_lon_m": 9.893443444688678e-05,
+  "mod_vs_exe_N": 0.000317474827170372,
+  "mod_vs_exe_E": 0.0004840269102714956,
+  "dexe": [
+   -64,
+   0,
+   -32
+  ],
+  "web_delta": [
+   -59,
+   -11,
+   -52
+  ],
+  "web_huso": 19,
+  "dlat_m": 11.343732307815973,
+  "dlon_m": -1.19920497156178,
+  "dN": -11.31900000013411,
+  "dE": 1.422000000020489,
+  "dH": 11.40694329061061,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Ovalle-SIRGAS_PSAD56",
+  "punto": "Ovalle",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 30.6014,
+  "lon": 71.1997,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.00044390629429381923,
+  "mod_vs_exe_lon_m": -0.0012619398722900747,
+  "mod_vs_exe_N": 0.00045226048678159714,
+  "mod_vs_exe_E": 0.0002251207479275763,
+  "dexe": [
+   328,
+   -340,
+   329
+  ],
+  "web_delta": [
+   328,
+   -340,
+   329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": -0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Ovalle-SIRGAS_SAD69",
+  "punto": "Ovalle",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 30.6014,
+  "lon": 71.1997,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0015310759004122224,
+  "mod_vs_exe_lon_m": -0.0008981569324664671,
+  "mod_vs_exe_N": 0.00010111648589372635,
+  "mod_vs_exe_E": -0.00014995771925896406,
+  "dexe": [
+   64,
+   0,
+   32
+  ],
+  "web_delta": [
+   59,
+   11,
+   52
+  ],
+  "web_huso": 19,
+  "dlat_m": -11.095502499789482,
+  "dlon_m": 1.1880845218217309,
+  "dN": 11.071000000461936,
+  "dE": -1.4060000000172295,
+  "dH": 11.158930081052889,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Ovalle-PSAD56_SIRGAS",
+  "punto": "Ovalle",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 30.6014,
+  "lon": 71.1997,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0012241213603012716,
+  "mod_vs_exe_lon_m": -8.827326535646945e-05,
+  "mod_vs_exe_N": -1.6396865248680115e-05,
+  "mod_vs_exe_E": 0.00044513423927128315,
+  "dexe": [
+   -328,
+   340,
+   -329
+  ],
+  "web_delta": [
+   -328,
+   340,
+   -329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Ovalle-SAD69_SIRGAS",
+  "punto": "Ovalle",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 30.6014,
+  "lon": 71.1997,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0010679786209335665,
+  "mod_vs_exe_lon_m": 0.0011332524886413214,
+  "mod_vs_exe_N": 0.00042693689465522766,
+  "mod_vs_exe_E": 0.0003567877574823797,
+  "dexe": [
+   -64,
+   0,
+   -32
+  ],
+  "web_delta": [
+   -59,
+   -11,
+   -52
+  ],
+  "web_huso": 19,
+  "dlat_m": 11.092422982165616,
+  "dlon_m": -1.1880845231845405,
+  "dN": -11.066999999806285,
+  "dE": 1.4060000000172295,
+  "dH": 11.15586807243195,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Illapel-SIRGAS_PSAD56",
+  "punto": "Illapel",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 31.6331,
+  "lon": 71.1686,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.00034909595262823677,
+  "mod_vs_exe_lon_m": 0.001138900621716818,
+  "mod_vs_exe_N": 0.0004266081377863884,
+  "mod_vs_exe_E": -0.0002240120666101575,
+  "dexe": [
+   328,
+   -340,
+   329
+  ],
+  "web_delta": [
+   328,
+   -340,
+   329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": 0.0010000000474974513,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Illapel-SIRGAS_SAD69",
+  "punto": "Illapel",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 31.6331,
+  "lon": 71.1686,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0013642512384229295,
+  "mod_vs_exe_lon_m": -0.001121943615860972,
+  "mod_vs_exe_N": 0.0002656383439898491,
+  "mod_vs_exe_E": -0.0002311141579411924,
+  "dexe": [
+   64,
+   0,
+   32
+  ],
+  "web_delta": [
+   59,
+   11,
+   52
+  ],
+  "web_huso": 19,
+  "dlat_m": -10.721519570010898,
+  "dlon_m": 1.1805731282445353,
+  "dN": 10.695999999530613,
+  "dE": -1.3950000000186265,
+  "dH": 10.786321652966768,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Illapel-PSAD56_SIRGAS",
+  "punto": "Illapel",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 31.6331,
+  "lon": 71.1686,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.00048152177862957477,
+  "mod_vs_exe_lon_m": 0.000680206737761262,
+  "mod_vs_exe_N": -0.0004416760057210922,
+  "mod_vs_exe_E": 0.0004766768543049693,
+  "dexe": [
+   -328,
+   340,
+   -329
+  ],
+  "web_delta": [
+   -328,
+   340,
+   -329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Illapel-SAD69_SIRGAS",
+  "punto": "Illapel",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 31.6331,
+  "lon": 71.1686,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0008795772611680719,
+  "mod_vs_exe_lon_m": -0.0012726166835559075,
+  "mod_vs_exe_N": -0.00035188160836696625,
+  "mod_vs_exe_E": 8.720922050997615e-05,
+  "dexe": [
+   -64,
+   0,
+   -32
+  ],
+  "web_delta": [
+   -59,
+   -11,
+   -52
+  ],
+  "web_huso": 19,
+  "dlat_m": 10.721519570010898,
+  "dlon_m": -1.1832083356626737,
+  "dN": -10.696999999694526,
+  "dE": 1.3949999999604188,
+  "dH": 10.786610396955492,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-LosVilos-SIRGAS_PSAD56",
+  "punto": "LosVilos",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 31.9113,
+  "lon": 71.5101,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0015023168202156218,
+  "mod_vs_exe_lon_m": 0.0010906373296158936,
+  "mod_vs_exe_N": 0.0004543466493487358,
+  "mod_vs_exe_E": -0.0001390497200191021,
+  "dexe": [
+   328,
+   -340,
+   329
+  ],
+  "web_delta": [
+   328,
+   -340,
+   329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0020000003278255463,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-LosVilos-SIRGAS_SAD69",
+  "punto": "LosVilos",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 31.9113,
+  "lon": 71.5101,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0005329260792430675,
+  "mod_vs_exe_lon_m": 0.0005872256206440111,
+  "mod_vs_exe_N": -4.0978193283081055e-05,
+  "mod_vs_exe_E": -0.00044122920371592045,
+  "dexe": [
+   64,
+   0,
+   32
+  ],
+  "web_delta": [
+   59,
+   11,
+   52
+  ],
+  "web_huso": 19,
+  "dlat_m": -10.62650392644798,
+  "dlon_m": 1.2532379580855377,
+  "dN": 10.597000000067055,
+  "dE": -1.4989999999525025,
+  "dH": 10.700149114774089,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-LosVilos-PSAD56_SIRGAS",
+  "punto": "LosVilos",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 31.9113,
+  "lon": 71.5101,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0011477368758684675,
+  "mod_vs_exe_lon_m": 0.001074943391058517,
+  "mod_vs_exe_N": -0.00014129187911748886,
+  "mod_vs_exe_E": -0.000419305928517133,
+  "dexe": [
+   -328,
+   340,
+   -329
+  ],
+  "web_delta": [
+   -328,
+   340,
+   -329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-LosVilos-SAD69_SIRGAS",
+  "punto": "LosVilos",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 31.9113,
+  "lon": 71.5101,
+  "msg": "",
+  "mod_vs_exe_lat_m": 3.7913917464773974e-05,
+  "mod_vs_exe_lon_m": -0.00035282732010069243,
+  "mod_vs_exe_N": -0.00034294556826353073,
+  "mod_vs_exe_E": -0.0004276476101949811,
+  "dexe": [
+   -64,
+   0,
+   -32
+  ],
+  "web_delta": [
+   -59,
+   -11,
+   -52
+  ],
+  "web_huso": 19,
+  "dlat_m": 10.62342378052142,
+  "dlon_m": -1.2532379580855377,
+  "dN": -10.59499999973923,
+  "dE": 1.4989999999525025,
+  "dH": 10.697090174441573,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-LaLigua-SIRGAS_PSAD56",
+  "punto": "LaLigua",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 32.4527,
+  "lon": 71.2318,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.00044793332347508344,
+  "mod_vs_exe_lon_m": 0.0008453491032267816,
+  "mod_vs_exe_N": -7.653888314962387e-05,
+  "mod_vs_exe_E": 0.0002155796391889453,
+  "dexe": [
+   328,
+   -340,
+   329
+  ],
+  "web_delta": [
+   328,
+   -340,
+   329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-LaLigua-SIRGAS_SAD69",
+  "punto": "LaLigua",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 32.4527,
+  "lon": 71.2318,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0008519870268471539,
+  "mod_vs_exe_lon_m": 0.0003330142888641098,
+  "mod_vs_exe_N": 0.00030074920505285263,
+  "mod_vs_exe_E": 0.00033211824484169483,
+  "dexe": [
+   64,
+   0,
+   32
+  ],
+  "web_delta": [
+   64,
+   0,
+   32
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0010000000474974513,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-LaLigua-PSAD56_SIRGAS",
+  "punto": "LaLigua",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 32.4527,
+  "lon": 71.2318,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0003516381702433437,
+  "mod_vs_exe_lon_m": -0.001167222251120816,
+  "mod_vs_exe_N": 0.00032069068402051926,
+  "mod_vs_exe_E": -0.0004718450363725424,
+  "dexe": [
+   -328,
+   340,
+   -329
+  ],
+  "web_delta": [
+   -328,
+   340,
+   -329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": -0.001999999978579581,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-LaLigua-SAD69_SIRGAS",
+  "punto": "LaLigua",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 32.4527,
+  "lon": 71.2318,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0003488519625022818,
+  "mod_vs_exe_lon_m": -8.971705076693853e-05,
+  "mod_vs_exe_N": 0.0003100847825407982,
+  "mod_vs_exe_E": -0.0001393224811181426,
+  "dexe": [
+   -64,
+   0,
+   -32
+  ],
+  "web_delta": [
+   -64,
+   0,
+   -32
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Valparaiso-SIRGAS_PSAD56",
+  "punto": "Valparaiso",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 33.0472,
+  "lon": 71.6127,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0008324342087555445,
+  "mod_vs_exe_lon_m": -0.0009838395192058543,
+  "mod_vs_exe_N": 2.6605091989040375e-05,
+  "mod_vs_exe_E": 0.00010516401380300522,
+  "dexe": [
+   328,
+   -340,
+   329
+  ],
+  "web_delta": [
+   328,
+   -340,
+   329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0009999992325901985,
+  "dE": -0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Valparaiso-SIRGAS_SAD69",
+  "punto": "Valparaiso",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 33.0472,
+  "lon": 71.6127,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0002649828106394188,
+  "mod_vs_exe_lon_m": 0.0006695540216025789,
+  "mod_vs_exe_N": -0.0003399280831217766,
+  "mod_vs_exe_E": -0.00016680083354003727,
+  "dexe": [
+   64,
+   0,
+   32
+  ],
+  "web_delta": [
+   64,
+   0,
+   32
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Valparaiso-PSAD56_SIRGAS",
+  "punto": "Valparaiso",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 33.0472,
+  "lon": 71.6127,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.00015063105713113145,
+  "mod_vs_exe_lon_m": 0.0012302951614233991,
+  "mod_vs_exe_N": 0.00044841039925813675,
+  "mod_vs_exe_E": 0.000363586179446429,
+  "dexe": [
+   -328,
+   340,
+   -329
+  ],
+  "web_delta": [
+   -328,
+   340,
+   -329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0009999992325901985,
+  "dE": 0.0020000000076834112,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Valparaiso-SAD69_SIRGAS",
+  "punto": "Valparaiso",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 33.0472,
+  "lon": 71.6127,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.00025585979274025575,
+  "mod_vs_exe_lon_m": -0.00043181769213265417,
+  "mod_vs_exe_N": 0.00043513718992471695,
+  "mod_vs_exe_E": 0.0003426290932111442,
+  "dexe": [
+   -64,
+   0,
+   -32
+  ],
+  "web_delta": [
+   -64,
+   0,
+   -32
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Santiago-SIRGAS_PSAD56",
+  "punto": "Santiago",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 33.4489,
+  "lon": 70.6693,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0014573531581206893,
+  "mod_vs_exe_lon_m": 0.0002793168199372526,
+  "mod_vs_exe_N": 0.0003712102770805359,
+  "mod_vs_exe_E": -1.2779084499925375e-05,
+  "dexe": [
+   328,
+   -340,
+   329
+  ],
+  "web_delta": [
+   328,
+   -340,
+   329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0020000003278255463,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Santiago-SIRGAS_SAD69",
+  "punto": "Santiago",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 33.4489,
+  "lon": 70.6693,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.000364786707341435,
+  "mod_vs_exe_lon_m": -0.00046619263914001385,
+  "mod_vs_exe_N": 0.00037985295057296753,
+  "mod_vs_exe_E": -0.0004536244668997824,
+  "dexe": [
+   64,
+   0,
+   32
+  ],
+  "web_delta": [
+   64,
+   0,
+   32
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": -0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Santiago-PSAD56_SIRGAS",
+  "punto": "Santiago",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 33.4489,
+  "lon": 70.6693,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0012738541274917967,
+  "mod_vs_exe_lon_m": -0.00037107339549871725,
+  "mod_vs_exe_N": -0.0003909328952431679,
+  "mod_vs_exe_E": -0.00027155462885275483,
+  "dexe": [
+   -328,
+   340,
+   -329
+  ],
+  "web_delta": [
+   -328,
+   340,
+   -329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": -0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Santiago-SAD69_SIRGAS",
+  "punto": "Santiago",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 33.4489,
+  "lon": 70.6693,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0001528450629580927,
+  "mod_vs_exe_lon_m": 0.0007272625254102806,
+  "mod_vs_exe_N": 0.00021885335445404053,
+  "mod_vs_exe_E": 0.0001720525324344635,
+  "dexe": [
+   -64,
+   0,
+   -32
+  ],
+  "web_delta": [
+   -64,
+   0,
+   -32
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-SanAntonio-SIRGAS_PSAD56",
+  "punto": "SanAntonio",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 33.5933,
+  "lon": 71.6217,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.001221936332964888,
+  "mod_vs_exe_lon_m": -0.00038371812044549035,
+  "mod_vs_exe_N": 7.294304668903351e-05,
+  "mod_vs_exe_E": 0.00029501609969884157,
+  "dexe": [
+   328,
+   -340,
+   329
+  ],
+  "web_delta": [
+   328,
+   -340,
+   329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-SanAntonio-SIRGAS_SAD69",
+  "punto": "SanAntonio",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 33.5933,
+  "lon": 71.6217,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.001082223733666765,
+  "mod_vs_exe_lon_m": -0.0010499616605366823,
+  "mod_vs_exe_N": 0.00027031823992729187,
+  "mod_vs_exe_E": 0.00024194613797590137,
+  "dexe": [
+   64,
+   0,
+   32
+  ],
+  "web_delta": [
+   64,
+   0,
+   32
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0019999993965029716,
+  "dE": -0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-SanAntonio-PSAD56_SIRGAS",
+  "punto": "SanAntonio",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 33.5933,
+  "lon": 71.6217,
+  "msg": "",
+  "mod_vs_exe_lat_m": 6.643989085633273e-05,
+  "mod_vs_exe_lon_m": 0.0009585552914003922,
+  "mod_vs_exe_N": 0.00032603368163108826,
+  "mod_vs_exe_E": 0.0004333016986493021,
+  "dexe": [
+   -328,
+   340,
+   -329
+  ],
+  "web_delta": [
+   -328,
+   340,
+   -329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0010000000183936208,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-SanAntonio-SAD69_SIRGAS",
+  "punto": "SanAntonio",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 33.5933,
+  "lon": 71.6217,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0014658813184472588,
+  "mod_vs_exe_lon_m": -0.0012880904546535563,
+  "mod_vs_exe_N": -0.00045045092701911926,
+  "mod_vs_exe_E": -0.00028185974224470556,
+  "dexe": [
+   -64,
+   0,
+   -32
+  ],
+  "web_delta": [
+   -64,
+   0,
+   -32
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0009999992325901985,
+  "dE": -0.0020000000076834112,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Rancagua-SIRGAS_PSAD56",
+  "punto": "Rancagua",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 34.1708,
+  "lon": 70.7444,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0009135751531238983,
+  "mod_vs_exe_lon_m": 0.0008043784222581328,
+  "mod_vs_exe_N": -0.00024831201881170273,
+  "mod_vs_exe_E": 0.00017938477685675025,
+  "dexe": [
+   328,
+   -340,
+   329
+  ],
+  "web_delta": [
+   328,
+   -340,
+   329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Rancagua-SIRGAS_SAD69",
+  "punto": "Rancagua",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 34.1708,
+  "lon": 70.7444,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0013753112732594567,
+  "mod_vs_exe_lon_m": -0.0005675563753036225,
+  "mod_vs_exe_N": -3.8539059460163116e-05,
+  "mod_vs_exe_E": 0.00019634648924693465,
+  "dexe": [
+   64,
+   0,
+   32
+  ],
+  "web_delta": [
+   64,
+   0,
+   32
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.003081262655815122,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.003081262655815122,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Rancagua-PSAD56_SIRGAS",
+  "punto": "Rancagua",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 34.1708,
+  "lon": 70.7444,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.00010629457409000494,
+  "mod_vs_exe_lon_m": -0.00041904536242296604,
+  "mod_vs_exe_N": -0.000155596062541008,
+  "mod_vs_exe_E": 0.00018196296878159046,
+  "dexe": [
+   -328,
+   340,
+   -329
+  ],
+  "web_delta": [
+   -328,
+   340,
+   -329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Rancagua-SAD69_SIRGAS",
+  "punto": "Rancagua",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 34.1708,
+  "lon": 70.7444,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0011714243421052047,
+  "mod_vs_exe_lon_m": 0.0008309276794418319,
+  "mod_vs_exe_N": 0.00029016658663749695,
+  "mod_vs_exe_E": 0.00043790641939267516,
+  "dexe": [
+   -64,
+   0,
+   -32
+  ],
+  "web_delta": [
+   -64,
+   0,
+   -32
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Talca-SIRGAS_PSAD56",
+  "punto": "Talca",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 35.4264,
+  "lon": 71.6554,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0011159878988194671,
+  "mod_vs_exe_lon_m": 0.001109040855176673,
+  "mod_vs_exe_N": 9.422190487384796e-06,
+  "mod_vs_exe_E": -2.403254620730877e-05,
+  "dexe": [
+   328,
+   -340,
+   329
+  ],
+  "web_delta": [
+   328,
+   -340,
+   329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Talca-SIRGAS_SAD69",
+  "punto": "Talca",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 35.4264,
+  "lon": 71.6554,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0007956941491334556,
+  "mod_vs_exe_lon_m": 0.0009015953669843785,
+  "mod_vs_exe_N": 0.0002005789428949356,
+  "mod_vs_exe_E": -0.0002008029550779611,
+  "dexe": [
+   64,
+   0,
+   32
+  ],
+  "web_delta": [
+   64,
+   0,
+   32
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Talca-PSAD56_SIRGAS",
+  "punto": "Talca",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 35.4264,
+  "lon": 71.6554,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0014290841424454547,
+  "mod_vs_exe_lon_m": 0.0006263383586139626,
+  "mod_vs_exe_N": 0.00017115473747253418,
+  "mod_vs_exe_E": 6.607073009945452e-05,
+  "dexe": [
+   -328,
+   340,
+   -329
+  ],
+  "web_delta": [
+   -328,
+   340,
+   -329
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0020000003278255463,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Talca-SAD69_SIRGAS",
+  "punto": "Talca",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 35.4264,
+  "lon": 71.6554,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.00022183533546250004,
+  "mod_vs_exe_lon_m": -0.0006519731935551228,
+  "mod_vs_exe_N": 0.00018057134002447128,
+  "mod_vs_exe_E": -0.00043410848593339324,
+  "dexe": [
+   -64,
+   0,
+   -32
+  ],
+  "web_delta": [
+   -64,
+   0,
+   -32
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": -0.0010000000183936208,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Constitucion-SIRGAS_PSAD56",
+  "punto": "Constitucion",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 35.3331,
+  "lon": 72.4122,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.001272019292801773,
+  "mod_vs_exe_lon_m": 0.00015312570430411866,
+  "mod_vs_exe_N": 0.0003376603126525879,
+  "mod_vs_exe_E": 0.0002282464411109686,
+  "dexe": [
+   328,
+   -340,
+   329
+  ],
+  "web_delta": [
+   328,
+   -340,
+   329
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Constitucion-SIRGAS_SAD69",
+  "punto": "Constitucion",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 35.3331,
+  "lon": 72.4122,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0004080158117550066,
+  "mod_vs_exe_lon_m": -0.00047522483130951347,
+  "mod_vs_exe_N": -0.0003132745623588562,
+  "mod_vs_exe_E": 0.00047961773816496134,
+  "dexe": [
+   64,
+   0,
+   32
+  ],
+  "web_delta": [
+   64,
+   0,
+   32
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Constitucion-PSAD56_SIRGAS",
+  "punto": "Constitucion",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 35.3331,
+  "lon": 72.4122,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0011027244294163963,
+  "mod_vs_exe_lon_m": -0.0005540383540508316,
+  "mod_vs_exe_N": 0.00034628529101610184,
+  "mod_vs_exe_E": 3.756594378501177e-05,
+  "dexe": [
+   -328,
+   340,
+   -329
+  ],
+  "web_delta": [
+   -328,
+   340,
+   -329
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Constitucion-SAD69_SIRGAS",
+  "punto": "Constitucion",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 35.3331,
+  "lon": 72.4122,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0009888408336145137,
+  "mod_vs_exe_lon_m": 0.0007065477725506584,
+  "mod_vs_exe_N": -0.00015410222113132477,
+  "mod_vs_exe_E": -0.0004017304163426161,
+  "dexe": [
+   -64,
+   0,
+   -32
+  ],
+  "web_delta": [
+   -64,
+   0,
+   -32
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Chillan-SIRGAS_PSAD56",
+  "punto": "Chillan",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 36.6066,
+  "lon": 72.1034,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0004426400889418587,
+  "mod_vs_exe_lon_m": -0.0003980430588230931,
+  "mod_vs_exe_N": 5.4195523262023926e-05,
+  "mod_vs_exe_E": 0.00031951162964105606,
+  "dexe": [
+   352,
+   -403,
+   287
+  ],
+  "web_delta": [
+   352,
+   -403,
+   287
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0009999992325901985,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Chillan-SIRGAS_SAD69",
+  "punto": "Chillan",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 36.6066,
+  "lon": 72.1034,
+  "msg": "",
+  "mod_vs_exe_lat_m": -7.801963660829647e-05,
+  "mod_vs_exe_lon_m": 0.0007535037618596112,
+  "mod_vs_exe_N": -0.0003361338749527931,
+  "mod_vs_exe_E": 0.0004538630601018667,
+  "dexe": [
+   72,
+   -10,
+   32
+  ],
+  "web_delta": [
+   72,
+   -10,
+   32
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0010000000474974513,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Chillan-PSAD56_SIRGAS",
+  "punto": "Chillan",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 36.6066,
+  "lon": 72.1034,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0008241839299292984,
+  "mod_vs_exe_lon_m": -0.0007844246651418727,
+  "mod_vs_exe_N": -0.0001310054212808609,
+  "mod_vs_exe_E": -5.957938265055418e-05,
+  "dexe": [
+   -352,
+   403,
+   -287
+  ],
+  "web_delta": [
+   -352,
+   403,
+   -287
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": -0.0009999999310821295,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Chillan-SAD69_SIRGAS",
+  "punto": "Chillan",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 36.6066,
+  "lon": 72.1034,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.00049575917046981,
+  "mod_vs_exe_lon_m": -0.0001834758927161431,
+  "mod_vs_exe_N": 0.0003460310399532318,
+  "mod_vs_exe_E": -0.00021358521189540625,
+  "dexe": [
+   -72,
+   10,
+   -32
+  ],
+  "web_delta": [
+   -72,
+   10,
+   -32
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Concepcion-SIRGAS_PSAD56",
+  "punto": "Concepcion",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 36.8269,
+  "lon": 73.0498,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.00031188195390604906,
+  "mod_vs_exe_lon_m": -0.0004418577549730259,
+  "mod_vs_exe_N": 2.8285197913646698e-05,
+  "mod_vs_exe_E": -0.0003098449669778347,
+  "dexe": [
+   352,
+   -403,
+   287
+  ],
+  "web_delta": [
+   352,
+   -403,
+   287
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": -0.0010000000474974513,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Concepcion-SIRGAS_SAD69",
+  "punto": "Concepcion",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 36.8269,
+  "lon": 73.0498,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0005324311501893007,
+  "mod_vs_exe_lon_m": -0.0007176320163172552,
+  "mod_vs_exe_N": -0.00022697821259498596,
+  "mod_vs_exe_E": 6.414949893951416e-06,
+  "dexe": [
+   72,
+   -10,
+   32
+  ],
+  "web_delta": [
+   72,
+   -10,
+   32
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": -0.0010000000474974513,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Concepcion-PSAD56_SIRGAS",
+  "punto": "Concepcion",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 36.8269,
+  "lon": 73.0498,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0009702319498389051,
+  "mod_vs_exe_lon_m": 0.0003484112263063541,
+  "mod_vs_exe_N": 5.4718926548957825e-05,
+  "mod_vs_exe_E": -0.0003339191898703575,
+  "dexe": [
+   -352,
+   403,
+   -287
+  ],
+  "web_delta": [
+   -352,
+   403,
+   -287
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Concepcion-SAD69_SIRGAS",
+  "punto": "Concepcion",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 36.8269,
+  "lon": 73.0498,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.001131127201372722,
+  "mod_vs_exe_lon_m": -0.0012117025817940015,
+  "mod_vs_exe_N": 0.0002387668937444687,
+  "mod_vs_exe_E": -0.00030202046036720276,
+  "dexe": [
+   -72,
+   10,
+   -32
+  ],
+  "web_delta": [
+   -72,
+   10,
+   -32
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": -0.001999999978579581,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-LosAngeles-SIRGAS_PSAD56",
+  "punto": "LosAngeles",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 37.4697,
+  "lon": 72.3537,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0005260335053494892,
+  "mod_vs_exe_lon_m": -0.0005330052995692302,
+  "mod_vs_exe_N": 1.9575469195842743e-05,
+  "mod_vs_exe_E": 5.331507418304682e-05,
+  "dexe": [
+   352,
+   -403,
+   287
+  ],
+  "web_delta": [
+   352,
+   -403,
+   287
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-LosAngeles-SIRGAS_SAD69",
+  "punto": "LosAngeles",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 37.4697,
+  "lon": 72.3537,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0002989377683958974,
+  "mod_vs_exe_lon_m": -0.0010985659437855286,
+  "mod_vs_exe_N": 0.0004735225811600685,
+  "mod_vs_exe_E": 0.00017768109682947397,
+  "dexe": [
+   72,
+   -10,
+   32
+  ],
+  "web_delta": [
+   72,
+   -10,
+   32
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": -0.0010000000474974513,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-LosAngeles-PSAD56_SIRGAS",
+  "punto": "LosAngeles",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 37.4697,
+  "lon": 72.3537,
+  "msg": "",
+  "mod_vs_exe_lat_m": -5.691371470023272e-05,
+  "mod_vs_exe_lon_m": 0.0003742852661889342,
+  "mod_vs_exe_N": -0.0003600679337978363,
+  "mod_vs_exe_E": 0.00015709293074905872,
+  "dexe": [
+   -352,
+   403,
+   -287
+  ],
+  "web_delta": [
+   -352,
+   403,
+   -287
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": 0.0010000000474974513,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-LosAngeles-SAD69_SIRGAS",
+  "punto": "LosAngeles",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 37.4697,
+  "lon": 72.3537,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.00030480973070236733,
+  "mod_vs_exe_lon_m": -0.0007857281520665597,
+  "mod_vs_exe_N": 0.00042756833136081696,
+  "mod_vs_exe_E": 0.00030643108766525984,
+  "dexe": [
+   -72,
+   10,
+   -32
+  ],
+  "web_delta": [
+   -72,
+   10,
+   -32
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Temuco-SIRGAS_PSAD56",
+  "punto": "Temuco",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 38.7359,
+  "lon": 72.5904,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0004338405752483693,
+  "mod_vs_exe_lon_m": -0.0011192446316384667,
+  "mod_vs_exe_N": 0.00038610585033893585,
+  "mod_vs_exe_E": 0.0003399057313799858,
+  "dexe": [
+   352,
+   -403,
+   287
+  ],
+  "web_delta": [
+   352,
+   -403,
+   287
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": -0.0009999999310821295,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Temuco-SIRGAS_SAD69",
+  "punto": "Temuco",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 38.7359,
+  "lon": 72.5904,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0007783821666380244,
+  "mod_vs_exe_lon_m": -0.0011110365510142734,
+  "mod_vs_exe_N": 0.0004875101149082184,
+  "mod_vs_exe_E": 0.0004123891703784466,
+  "dexe": [
+   72,
+   -10,
+   32
+  ],
+  "web_delta": [
+   72,
+   -10,
+   32
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": -0.0010000000474974513,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Temuco-PSAD56_SIRGAS",
+  "punto": "Temuco",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 38.7359,
+  "lon": 72.5904,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0014816909365802848,
+  "mod_vs_exe_lon_m": -2.265716911121992e-05,
+  "mod_vs_exe_N": -0.00015180744230747223,
+  "mod_vs_exe_E": 0.00020856468472629786,
+  "dexe": [
+   -352,
+   403,
+   -287
+  ],
+  "web_delta": [
+   -352,
+   403,
+   -287
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0019999993965029716,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Temuco-SAD69_SIRGAS",
+  "punto": "Temuco",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 38.7359,
+  "lon": 72.5904,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0001325957238066762,
+  "mod_vs_exe_lon_m": -0.0007232007258261147,
+  "mod_vs_exe_N": 0.0002778833732008934,
+  "mod_vs_exe_E": 0.00047932425513863564,
+  "dexe": [
+   -72,
+   10,
+   -32
+  ],
+  "web_delta": [
+   -72,
+   10,
+   -32
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Valdivia-SIRGAS_PSAD56",
+  "punto": "Valdivia",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 39.8142,
+  "lon": 73.2459,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.000784853106301694,
+  "mod_vs_exe_lon_m": -0.0006605253217592194,
+  "mod_vs_exe_N": 0.0002106018364429474,
+  "mod_vs_exe_E": 0.00022184208501130342,
+  "dexe": [
+   352,
+   -403,
+   287
+  ],
+  "web_delta": [
+   352,
+   -403,
+   287
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Valdivia-SIRGAS_SAD69",
+  "punto": "Valdivia",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 39.8142,
+  "lon": 73.2459,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0003414530443410855,
+  "mod_vs_exe_lon_m": -0.001023881963775978,
+  "mod_vs_exe_N": -0.000436919741332531,
+  "mod_vs_exe_E": 0.0002176585840061307,
+  "dexe": [
+   72,
+   -10,
+   32
+  ],
+  "web_delta": [
+   72,
+   -10,
+   32
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": -0.0009999999310821295,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Valdivia-PSAD56_SIRGAS",
+  "punto": "Valdivia",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 39.8142,
+  "lon": 73.2459,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.00035808038887997617,
+  "mod_vs_exe_lon_m": -0.0011088208498235435,
+  "mod_vs_exe_N": -0.0002251267433166504,
+  "mod_vs_exe_E": 0.0003487332724034786,
+  "dexe": [
+   -352,
+   403,
+   -287
+  ],
+  "web_delta": [
+   -352,
+   403,
+   -287
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": -0.0010000000474974513,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Valdivia-SAD69_SIRGAS",
+  "punto": "Valdivia",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 39.8142,
+  "lon": 73.2459,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0010324219277275393,
+  "mod_vs_exe_lon_m": -0.0007781742878115219,
+  "mod_vs_exe_N": -6.682053208351135e-05,
+  "mod_vs_exe_E": 0.00024836650118231773,
+  "dexe": [
+   -72,
+   10,
+   -32
+  ],
+  "web_delta": [
+   -72,
+   10,
+   -32
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": -0.0009999999310821295,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Osorno-SIRGAS_PSAD56",
+  "punto": "Osorno",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 40.5739,
+  "lon": 73.1335,
+  "msg": "",
+  "mod_vs_exe_lat_m": 1.655378687777735e-06,
+  "mod_vs_exe_lon_m": 0.0010105453719295244,
+  "mod_vs_exe_N": 0.0003352789208292961,
+  "mod_vs_exe_E": 0.0003803333966061473,
+  "dexe": [
+   352,
+   -403,
+   287
+  ],
+  "web_delta": [
+   352,
+   -403,
+   287
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0010000000474974513,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Osorno-SIRGAS_SAD69",
+  "punto": "Osorno",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 40.5739,
+  "lon": 73.1335,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0009287913210854357,
+  "mod_vs_exe_lon_m": 0.0005950580825438697,
+  "mod_vs_exe_N": -0.0004225531592965126,
+  "mod_vs_exe_E": 0.00011287152301520109,
+  "dexe": [
+   72,
+   -10,
+   32
+  ],
+  "web_delta": [
+   72,
+   -10,
+   32
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": 0.0010000000474974513,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Osorno-PSAD56_SIRGAS",
+  "punto": "Osorno",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 40.5739,
+  "lon": 73.1335,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.001029148456775206,
+  "mod_vs_exe_lon_m": 0.00030987369099190194,
+  "mod_vs_exe_N": -0.0004365723580121994,
+  "mod_vs_exe_E": -0.00033554923720657825,
+  "dexe": [
+   -352,
+   403,
+   -287
+  ],
+  "web_delta": [
+   -352,
+   403,
+   -287
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0020000003278255463,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Osorno-SAD69_SIRGAS",
+  "punto": "Osorno",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 40.5739,
+  "lon": 73.1335,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0002166747099383431,
+  "mod_vs_exe_lon_m": -6.554372455859311e-06,
+  "mod_vs_exe_N": 0.00013082008808851242,
+  "mod_vs_exe_E": 0.00032259104773402214,
+  "dexe": [
+   -72,
+   10,
+   -32
+  ],
+  "web_delta": [
+   -72,
+   10,
+   -32
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-PuertoMontt-SIRGAS_PSAD56",
+  "punto": "PuertoMontt",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 41.4693,
+  "lon": 72.9424,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0010845288536666814,
+  "mod_vs_exe_lon_m": 0.0006257647847224445,
+  "mod_vs_exe_N": -0.00032051559537649155,
+  "mod_vs_exe_E": -0.0002558198757469654,
+  "dexe": [
+   352,
+   -403,
+   287
+  ],
+  "web_delta": [
+   352,
+   -403,
+   287
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0020000003278255463,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-PuertoMontt-SIRGAS_SAD69",
+  "punto": "PuertoMontt",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 41.4693,
+  "lon": 72.9424,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.001507267831394871,
+  "mod_vs_exe_lon_m": -0.0010158082776091028,
+  "mod_vs_exe_N": 0.00041706301271915436,
+  "mod_vs_exe_E": 0.00036148971412330866,
+  "dexe": [
+   72,
+   -10,
+   32
+  ],
+  "web_delta": [
+   72,
+   -10,
+   32
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": -0.0009999999310821295,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-PuertoMontt-PSAD56_SIRGAS",
+  "punto": "PuertoMontt",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 41.4693,
+  "lon": 72.9424,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0006084188718619937,
+  "mod_vs_exe_lon_m": -0.0008191952073722639,
+  "mod_vs_exe_N": -0.00019685178995132446,
+  "mod_vs_exe_E": 0.0002873106859624386,
+  "dexe": [
+   -352,
+   403,
+   -287
+  ],
+  "web_delta": [
+   -352,
+   403,
+   -287
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": -0.0009999999310821295,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-PuertoMontt-SAD69_SIRGAS",
+  "punto": "PuertoMontt",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 41.4693,
+  "lon": 72.9424,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0007709040690104447,
+  "mod_vs_exe_lon_m": -0.0006997729154637984,
+  "mod_vs_exe_N": 5.317665636539459e-05,
+  "mod_vs_exe_E": -1.3222219422459602e-05,
+  "dexe": [
+   -72,
+   10,
+   -32
+  ],
+  "web_delta": [
+   -72,
+   10,
+   -32
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": -0.0009999999310821295,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Castro-SIRGAS_PSAD56",
+  "punto": "Castro",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 42.4823,
+  "lon": 73.7624,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0015293554507938138,
+  "mod_vs_exe_lon_m": -0.0006013789568030801,
+  "mod_vs_exe_N": -0.0004553990438580513,
+  "mod_vs_exe_E": -8.03450820967555e-05,
+  "dexe": [
+   352,
+   -403,
+   287
+  ],
+  "web_delta": [
+   352,
+   -403,
+   287
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": -0.0009999999310821295,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Castro-SIRGAS_SAD69",
+  "punto": "Castro",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 42.4823,
+  "lon": 73.7624,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0006145670483439552,
+  "mod_vs_exe_lon_m": -0.0008482462325878193,
+  "mod_vs_exe_N": -0.0003966996446251869,
+  "mod_vs_exe_E": 0.0002437494695186615,
+  "dexe": [
+   72,
+   -10,
+   32
+  ],
+  "web_delta": [
+   72,
+   -10,
+   32
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": -0.0010000000474974513,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Castro-PSAD56_SIRGAS",
+  "punto": "Castro",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 42.4823,
+  "lon": 73.7624,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.001163166837701339,
+  "mod_vs_exe_lon_m": 0.00015084425055736172,
+  "mod_vs_exe_N": -0.00021790340542793274,
+  "mod_vs_exe_E": 0.00014771055430173874,
+  "dexe": [
+   -352,
+   403,
+   -287
+  ],
+  "web_delta": [
+   -352,
+   403,
+   -287
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Castro-SAD69_SIRGAS",
+  "punto": "Castro",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 42.4823,
+  "lon": 73.7624,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.00016944393491083985,
+  "mod_vs_exe_lon_m": -0.0008400402249683028,
+  "mod_vs_exe_N": -0.00018294062465429306,
+  "mod_vs_exe_E": -0.0003591299755498767,
+  "dexe": [
+   -72,
+   10,
+   -32
+  ],
+  "web_delta": [
+   -72,
+   10,
+   -32
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": -0.0010000000474974513,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Chaiten-SIRGAS_PSAD56",
+  "punto": "Chaiten",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 42.9167,
+  "lon": 72.7083,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.001003988265455693,
+  "mod_vs_exe_lon_m": 0.0002448147491631487,
+  "mod_vs_exe_N": -0.0003060586750507355,
+  "mod_vs_exe_E": 0.00029829831328243017,
+  "dexe": [
+   352,
+   -403,
+   287
+  ],
+  "web_delta": [
+   352,
+   -403,
+   287
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0019999993965029716,
+  "dE": 0.0010000000474974513,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Chaiten-SIRGAS_SAD69",
+  "punto": "Chaiten",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 42.9167,
+  "lon": 72.7083,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0012957177567622443,
+  "mod_vs_exe_lon_m": -0.0009027467728671578,
+  "mod_vs_exe_N": 8.367281407117844e-05,
+  "mod_vs_exe_E": 6.072479300200939e-05,
+  "dexe": [
+   72,
+   -10,
+   32
+  ],
+  "web_delta": [
+   72,
+   -10,
+   32
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": -0.0010000000474974513,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Chaiten-PSAD56_SIRGAS",
+  "punto": "Chaiten",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 42.9167,
+  "lon": 72.7083,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0012176400070257954,
+  "mod_vs_exe_lon_m": 0.0010540179603509864,
+  "mod_vs_exe_N": -0.000424165278673172,
+  "mod_vs_exe_E": 1.9833911210298538e-05,
+  "dexe": [
+   -352,
+   403,
+   -287
+  ],
+  "web_delta": [
+   -352,
+   403,
+   -287
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": 0.0009999999310821295,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Chaiten-SAD69_SIRGAS",
+  "punto": "Chaiten",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 42.9167,
+  "lon": 72.7083,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0005176643056838283,
+  "mod_vs_exe_lon_m": -0.0007347505748640194,
+  "mod_vs_exe_N": 0.0004687923938035965,
+  "mod_vs_exe_E": -0.0003465025220066309,
+  "dexe": [
+   -72,
+   10,
+   -32
+  ],
+  "web_delta": [
+   -72,
+   10,
+   -32
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": -0.0010000000474974513,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Futaleufu-SIRGAS_PSAD56",
+  "punto": "Futaleufu",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 43.1859,
+  "lon": 71.8668,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0013721371432968126,
+  "mod_vs_exe_lon_m": 0.0004698876602418284,
+  "mod_vs_exe_N": -0.0004451470449566841,
+  "mod_vs_exe_E": -0.0002464624703861773,
+  "dexe": [
+   352,
+   -403,
+   287
+  ],
+  "web_delta": [
+   352,
+   -403,
+   287
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0020000003278255463,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Futaleufu-SIRGAS_SAD69",
+  "punto": "Futaleufu",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 43.1859,
+  "lon": 71.8668,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0008348352820683691,
+  "mod_vs_exe_lon_m": -0.0001725715242396249,
+  "mod_vs_exe_N": -0.00039468705654144287,
+  "mod_vs_exe_E": -0.0003899934235960245,
+  "dexe": [
+   72,
+   -10,
+   32
+  ],
+  "web_delta": [
+   72,
+   -10,
+   32
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": -0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Futaleufu-PSAD56_SIRGAS",
+  "punto": "Futaleufu",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 43.1859,
+  "lon": 71.8668,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0009590721827798543,
+  "mod_vs_exe_lon_m": 0.000258182610234734,
+  "mod_vs_exe_N": 0.00039975810796022415,
+  "mod_vs_exe_E": -1.348421210423112e-05,
+  "dexe": [
+   -352,
+   403,
+   -287
+  ],
+  "web_delta": [
+   -352,
+   403,
+   -287
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Futaleufu-SAD69_SIRGAS",
+  "punto": "Futaleufu",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 43.1859,
+  "lon": 71.8668,
+  "msg": "",
+  "mod_vs_exe_lat_m": 6.444319539078632e-05,
+  "mod_vs_exe_lon_m": 0.0008294935005107384,
+  "mod_vs_exe_N": 0.00036685820668935776,
+  "mod_vs_exe_E": -5.728565156459808e-06,
+  "dexe": [
+   -72,
+   10,
+   -32
+  ],
+  "web_delta": [
+   -72,
+   10,
+   -32
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0009999999892897904,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Coyhaique-SIRGAS_PSAD56",
+  "punto": "Coyhaique",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 45.5712,
+  "lon": 72.0685,
+  "msg": " Error : \u00a1 No exixten Parametros para esta Latitud !",
+  "dexe": null,
+  "web": "SIN RESULTADO"
+ },
+ {
+  "id": "C1-Coyhaique-SIRGAS_SAD69",
+  "punto": "Coyhaique",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 45.5712,
+  "lon": 72.0685,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0008438232528610733,
+  "mod_vs_exe_lon_m": 0.0003251335227268658,
+  "mod_vs_exe_N": -2.88989394903183e-05,
+  "mod_vs_exe_E": 0.000253413338214159,
+  "dexe": [
+   79,
+   -13,
+   14
+  ],
+  "web_delta": [
+   79,
+   -13,
+   14
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": 0.0010000000474974513,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Coyhaique-PSAD56_SIRGAS",
+  "punto": "Coyhaique",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 45.5712,
+  "lon": 72.0685,
+  "msg": " Error : \u00a1 No exixten Parametros para esta Latitud !",
+  "dexe": null,
+  "web": "SIN RESULTADO"
+ },
+ {
+  "id": "C1-Coyhaique-SAD69_SIRGAS",
+  "punto": "Coyhaique",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 45.5712,
+  "lon": 72.0685,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0014813231788067822,
+  "mod_vs_exe_lon_m": 0.0005828664557543649,
+  "mod_vs_exe_N": 9.92482528090477e-05,
+  "mod_vs_exe_E": -0.0004743090830743313,
+  "dexe": [
+   -79,
+   13,
+   -14
+  ],
+  "web_delta": [
+   -79,
+   13,
+   -14
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Cochrane-SIRGAS_PSAD56",
+  "punto": "Cochrane",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 47.2536,
+  "lon": 72.5735,
+  "msg": " Error : \u00a1 No exixten Parametros para esta Latitud !",
+  "dexe": null,
+  "web": "SIN RESULTADO"
+ },
+ {
+  "id": "C1-Cochrane-SIRGAS_SAD69",
+  "punto": "Cochrane",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 47.2536,
+  "lon": 72.5735,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0015344278176041657,
+  "mod_vs_exe_lon_m": -0.000622393424982082,
+  "mod_vs_exe_N": 0.00047089066356420517,
+  "mod_vs_exe_E": 0.0003172551514580846,
+  "dexe": [
+   79,
+   -13,
+   14
+  ],
+  "web_delta": [
+   79,
+   -13,
+   14
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-Cochrane-PSAD56_SIRGAS",
+  "punto": "Cochrane",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 47.2536,
+  "lon": 72.5735,
+  "msg": " Error : \u00a1 No exixten Parametros para esta Latitud !",
+  "dexe": null,
+  "web": "SIN RESULTADO"
+ },
+ {
+  "id": "C1-Cochrane-SAD69_SIRGAS",
+  "punto": "Cochrane",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 47.2536,
+  "lon": 72.5735,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0006995344210219917,
+  "mod_vs_exe_lon_m": -0.0005524290789543535,
+  "mod_vs_exe_N": -0.00014816876500844955,
+  "mod_vs_exe_E": 4.631897900253534e-05,
+  "dexe": [
+   -79,
+   13,
+   -14
+  ],
+  "web_delta": [
+   -79,
+   13,
+   -14
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-VillaOHiggins-SIRGAS_PSAD56",
+  "punto": "VillaOHiggins",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 48.4679,
+  "lon": 72.5594,
+  "msg": " Error : \u00a1 No exixten Parametros para esta Latitud !",
+  "dexe": null,
+  "web": "SIN RESULTADO"
+ },
+ {
+  "id": "C1-VillaOHiggins-SIRGAS_SAD69",
+  "punto": "VillaOHiggins",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 48.4679,
+  "lon": 72.5594,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.000302904905268996,
+  "mod_vs_exe_lon_m": -0.0004995350412868597,
+  "mod_vs_exe_N": -4.5034103095531464e-05,
+  "mod_vs_exe_E": -0.00019291043281555176,
+  "dexe": [
+   79,
+   -13,
+   14
+  ],
+  "web_delta": [
+   79,
+   -13,
+   14
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0009999992325901985,
+  "dE": -0.0010000000474974513,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-VillaOHiggins-PSAD56_SIRGAS",
+  "punto": "VillaOHiggins",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 48.4679,
+  "lon": 72.5594,
+  "msg": " Error : \u00a1 No exixten Parametros para esta Latitud !",
+  "dexe": null,
+  "web": "SIN RESULTADO"
+ },
+ {
+  "id": "C1-VillaOHiggins-SAD69_SIRGAS",
+  "punto": "VillaOHiggins",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 48.4679,
+  "lon": 72.5594,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0011830172996110193,
+  "mod_vs_exe_lon_m": -0.0005983100576340124,
+  "mod_vs_exe_N": 0.00025759730488061905,
+  "mod_vs_exe_E": -2.235604915767908e-05,
+  "dexe": [
+   -79,
+   13,
+   -14
+  ],
+  "web_delta": [
+   -79,
+   13,
+   -14
+  ],
+  "web_huso": 18,
+  "dlat_m": -0.003088872941356253,
+  "dlon_m": 0.0,
+  "dN": 0.0020000003278255463,
+  "dE": -0.0009999999310821295,
+  "dH": 0.003088872941356253,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-PuertoNatales-SIRGAS_PSAD56",
+  "punto": "PuertoNatales",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 51.7236,
+  "lon": 72.5064,
+  "msg": " Error : \u00a1 No exixten Parametros para esta Latitud !",
+  "dexe": null,
+  "web": "SIN RESULTADO"
+ },
+ {
+  "id": "C1-PuertoNatales-SIRGAS_SAD69",
+  "punto": "PuertoNatales",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 51.7236,
+  "lon": 72.5064,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.00020122007103170876,
+  "mod_vs_exe_lon_m": 0.00022299715356532257,
+  "mod_vs_exe_N": 0.0004892339929938316,
+  "mod_vs_exe_E": 9.875302202999592e-05,
+  "dexe": [
+   79,
+   -13,
+   14
+  ],
+  "web_delta": [
+   79,
+   -13,
+   14
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-PuertoNatales-PSAD56_SIRGAS",
+  "punto": "PuertoNatales",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 51.7236,
+  "lon": 72.5064,
+  "msg": " Error : \u00a1 No exixten Parametros para esta Latitud !",
+  "dexe": null,
+  "web": "SIN RESULTADO"
+ },
+ {
+  "id": "C1-PuertoNatales-SAD69_SIRGAS",
+  "punto": "PuertoNatales",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 51.7236,
+  "lon": 72.5064,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0008102308262726294,
+  "mod_vs_exe_lon_m": 0.0008202417637560007,
+  "mod_vs_exe_N": 0.0002858312800526619,
+  "mod_vs_exe_E": -7.269543129950762e-05,
+  "dexe": [
+   -79,
+   13,
+   -14
+  ],
+  "web_delta": [
+   -79,
+   13,
+   -14
+  ],
+  "web_huso": 18,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": -0.0010000001639127731,
+  "dE": 0.0010000000474974513,
+  "dH": 0.0,
+  "zona_exe": "18"
+ },
+ {
+  "id": "C1-PuntaArenas-SIRGAS_PSAD56",
+  "punto": "PuntaArenas",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 53.1638,
+  "lon": 70.9171,
+  "msg": " Error : \u00a1 No exixten Parametros para esta Latitud !",
+  "dexe": null,
+  "web": "SIN RESULTADO"
+ },
+ {
+  "id": "C1-PuntaArenas-SIRGAS_SAD69",
+  "punto": "PuntaArenas",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 53.1638,
+  "lon": 70.9171,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.00028570259214558537,
+  "mod_vs_exe_lon_m": -0.0005907020834620774,
+  "mod_vs_exe_N": -8.240435272455215e-05,
+  "mod_vs_exe_E": 0.00040398171404376626,
+  "dexe": [
+   79,
+   -13,
+   14
+  ],
+  "web_delta": [
+   79,
+   -13,
+   14
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-PuntaArenas-PSAD56_SIRGAS",
+  "punto": "PuntaArenas",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 53.1638,
+  "lon": 70.9171,
+  "msg": " Error : \u00a1 No exixten Parametros para esta Latitud !",
+  "dexe": null,
+  "web": "SIN RESULTADO"
+ },
+ {
+  "id": "C1-PuntaArenas-SAD69_SIRGAS",
+  "punto": "PuntaArenas",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 53.1638,
+  "lon": 70.9171,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0013172682779815455,
+  "mod_vs_exe_lon_m": -0.00012417889601650854,
+  "mod_vs_exe_N": -0.00021497346460819244,
+  "mod_vs_exe_E": -6.843823939561844e-06,
+  "dexe": [
+   -79,
+   13,
+   -14
+  ],
+  "web_delta": [
+   -79,
+   13,
+   -14
+  ],
+  "web_huso": 19,
+  "dlat_m": -0.003091370336910827,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.003091370336910827,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Porvenir-SIRGAS_PSAD56",
+  "punto": "Porvenir",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 53.2959,
+  "lon": 70.3687,
+  "msg": " Error : \u00a1 No exixten Parametros para esta Latitud !",
+  "dexe": null,
+  "web": "SIN RESULTADO"
+ },
+ {
+  "id": "C1-Porvenir-SIRGAS_SAD69",
+  "punto": "Porvenir",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 53.2959,
+  "lon": 70.3687,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0004783586114160317,
+  "mod_vs_exe_lon_m": -0.00080705448564826,
+  "mod_vs_exe_N": -6.410665810108185e-05,
+  "mod_vs_exe_E": 0.00035842962097376585,
+  "dexe": [
+   79,
+   -13,
+   14
+  ],
+  "web_delta": [
+   79,
+   -13,
+   14
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0009999996982514858,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-Porvenir-PSAD56_SIRGAS",
+  "punto": "Porvenir",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 53.2959,
+  "lon": 70.3687,
+  "msg": " Error : \u00a1 No exixten Parametros para esta Latitud !",
+  "dexe": null,
+  "web": "SIN RESULTADO"
+ },
+ {
+  "id": "C1-Porvenir-SAD69_SIRGAS",
+  "punto": "Porvenir",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 53.2959,
+  "lon": 70.3687,
+  "msg": "",
+  "mod_vs_exe_lat_m": -0.0015001859606413085,
+  "mod_vs_exe_lon_m": 0.00012083905381396438,
+  "mod_vs_exe_N": -0.00017412938177585602,
+  "mod_vs_exe_E": -0.0001809621462598443,
+  "dexe": [
+   -79,
+   13,
+   -14
+  ],
+  "web_delta": [
+   -79,
+   13,
+   -14
+  ],
+  "web_huso": 19,
+  "dlat_m": -0.0030914400618005087,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.0030914400618005087,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-PuertoWilliams-SIRGAS_PSAD56",
+  "punto": "PuertoWilliams",
+  "opcion": "SIRGAS_PSAD56",
+  "lat": 54.9352,
+  "lon": 67.6164,
+  "msg": " Error : \u00a1 No exixten Parametros para esta Latitud !",
+  "dexe": null,
+  "web": "SIN RESULTADO"
+ },
+ {
+  "id": "C1-PuertoWilliams-SIRGAS_SAD69",
+  "punto": "PuertoWilliams",
+  "opcion": "SIRGAS_SAD69",
+  "lat": 54.9352,
+  "lon": 67.6164,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0012941393224310043,
+  "mod_vs_exe_lon_m": -0.00031863546537234716,
+  "mod_vs_exe_N": -0.00010007480159401894,
+  "mod_vs_exe_E": -0.00030540162697434425,
+  "dexe": [
+   79,
+   -13,
+   14
+  ],
+  "web_delta": [
+   79,
+   -13,
+   14
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0030922873755061336,
+  "dlon_m": 0.0,
+  "dN": -0.001999999862164259,
+  "dE": -0.0009999999310821295,
+  "dH": 0.0030922873755061336,
+  "zona_exe": "19"
+ },
+ {
+  "id": "C1-PuertoWilliams-PSAD56_SIRGAS",
+  "punto": "PuertoWilliams",
+  "opcion": "PSAD56_SIRGAS",
+  "lat": 54.9352,
+  "lon": 67.6164,
+  "msg": " Error : \u00a1 No exixten Parametros para esta Latitud !",
+  "dexe": null,
+  "web": "SIN RESULTADO"
+ },
+ {
+  "id": "C1-PuertoWilliams-SAD69_SIRGAS",
+  "punto": "PuertoWilliams",
+  "opcion": "SAD69_SIRGAS",
+  "lat": 54.9352,
+  "lon": 67.6164,
+  "msg": "",
+  "mod_vs_exe_lat_m": 0.0007834554037678493,
+  "mod_vs_exe_lon_m": -0.00014968794828793553,
+  "mod_vs_exe_N": 0.0002832142636179924,
+  "mod_vs_exe_E": -3.603275399655104e-05,
+  "dexe": [
+   -79,
+   13,
+   -14
+  ],
+  "web_delta": [
+   -79,
+   13,
+   -14
+  ],
+  "web_huso": 19,
+  "dlat_m": 0.0,
+  "dlon_m": 0.0,
+  "dN": 0.0010000001639127731,
+  "dE": 0.0,
+  "dH": 0.0,
+  "zona_exe": "19"
+ }
+]

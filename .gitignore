@@ -1,0 +1,13 @@
+# Entorno y artefactos
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+build/
+dist/
+*.zip
+*.spec.bak
+config.json
+
+# Programa original del IGM (binarios de terceros: no se versionan)
+original/
