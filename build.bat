@@ -34,6 +34,7 @@ if exist dist\Coordenadas rmdir /s /q dist\Coordenadas
 "%PY%" -m PyInstaller %COMUN% --onedir --name Coordenadas --distpath dist src\coordenadas\__main__.py || exit /b 1
 
 copy /y LICENCIAS_TERCEROS.txt dist\Coordenadas\ >nul
+copy /y LICENSE dist\Coordenadas\ >nul
 echo === zip ===
 if exist dist\Coordenadas.zip del /q dist\Coordenadas.zip
 powershell -NoProfile -Command "Compress-Archive -Path 'dist\Coordenadas' -DestinationPath 'dist\Coordenadas.zip'" || exit /b 1
@@ -43,6 +44,7 @@ if exist dist\onefile rmdir /s /q dist\onefile
 "%PY%" -m PyInstaller %COMUN% --onefile --name Coordenadas --distpath dist\onefile src\coordenadas\__main__.py || exit /b 1
 
 copy /y LICENCIAS_TERCEROS.txt dist\onefile\ >nul
+copy /y LICENSE dist\onefile\ >nul
 echo === Verificacion (copia fuera del proyecto, autoprueba y tiempo de arranque) ===
 "%PY%" tools\verificar_exe.py || exit /b 1
 
